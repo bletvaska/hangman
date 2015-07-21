@@ -5,6 +5,6 @@
 * polozka 2
 * tretia polozka
 
-`javascript
+```javascript
 console.log('hello world');
-`
+```
